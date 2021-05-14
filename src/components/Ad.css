@@ -1,0 +1,7 @@
+
+.AdDisplay__ad {
+    display: flex;
+    flex-direction: row;
+    width: 150px;
+    height: 100px;
+}

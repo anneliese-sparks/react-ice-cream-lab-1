@@ -1,0 +1,11 @@
+.Header {
+    font-family: 'Caveat', cursive;
+    color: #0e3c7e;
+    border-bottom: solid 5px lightgrey;
+    display: flex;
+}
+
+.Header h2 {
+    display: flex;
+    justify-content: flex-end;
+}
